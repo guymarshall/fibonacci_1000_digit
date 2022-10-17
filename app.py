@@ -9,7 +9,7 @@ def main():
     first_number = 0
     second_number = 1
 
-    i = 1
+    i = 2
     while True:
         sum = first_number + second_number
         first_number = second_number
